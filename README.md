@@ -1,0 +1,1 @@
+Simple excuse generator built using React JS and Axios to understand more about API and fetching data using API
